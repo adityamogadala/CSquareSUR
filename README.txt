@@ -31,10 +31,12 @@ Usage:
 	first run the matlab code then the java code and further python code for the final results.	
 
 
-Dependecies (Already Included) :
+Dependencies (Already Included) :
 	KCCA @Liang Sun (sun.liang@asu.edu)
 	Java Matlab Conversion lib [http://sourceforge.net/projects/jmatio/]
 	Test and Train files [http://www.svcl.ucsd.edu/projects/crossmodal/]
+
+Dependencies(Install):
 	python-recsys [https://github.com/python-recsys/python-recsys]
 
 DEVELOPED AT:
