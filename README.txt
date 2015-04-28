@@ -40,9 +40,16 @@ Dependencies(Install):
 	python-recsys [https://github.com/python-recsys/python-recsys]
 
 
+NOTE:
+
+Toggle the train and test dataset and re-run the code to get cross-validation results. 
+
+
 Please CITE:
 
 Mogadala, A., & Rettinger, A. (2015). Multi-modal Correlated Centroid Space for Multi-lingual Cross-Modal Retrieval. In Advances in Information Retrieval (pp. 68-79). Springer International Publishing.
+
+
 
 DEVELOPED AT:
 -------------
