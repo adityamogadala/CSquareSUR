@@ -39,6 +39,11 @@ Dependencies (Already Included) :
 Dependencies(Install):
 	python-recsys [https://github.com/python-recsys/python-recsys]
 
+
+Please CITE:
+
+Mogadala, A., & Rettinger, A. (2015). Multi-modal Correlated Centroid Space for Multi-lingual Cross-Modal Retrieval. In Advances in Information Retrieval (pp. 68-79). Springer International Publishing.
+
 DEVELOPED AT:
 -------------
 AIFB
