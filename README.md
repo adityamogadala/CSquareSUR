@@ -4,6 +4,16 @@ Multi-Modal Correlated Centroid Space for Multi-lingual Cross-Modal Retrieval (C
 
 Facilitate cross-modal retrieval using the multimodal correlated feature space obtained from different languages.
 
+## Dependencies (Already Included) 
+
+* [KCCA @Liang Sun] (sun.liang@asu.edu)
+* [Java Matlab Conversion lib] (http://sourceforge.net/projects/jmatio/)
+* [Test and Train files] (http://www.svcl.ucsd.edu/projects/crossmodal/)
+
+## Dependencies (Install them)
+
+* [python-recsys] (https://github.com/python-recsys/python-recsys)
+
 ## Usage
 
 1. Code is distributed into 3 different folders (Matlab, Java and Python)
@@ -18,23 +28,10 @@ Facilitate cross-modal retrieval using the multimodal correlated feature space o
 5. To summarize:
 	* First run the matlab code then the java code and further python code for the final results.	
 
-## Dependencies (Already Included) :
-* KCCA @Liang Sun (sun.liang@asu.edu)
-* Java Matlab Conversion lib [http://sourceforge.net/projects/jmatio/]
-* Test and Train files [http://www.svcl.ucsd.edu/projects/crossmodal/]
+6. Toggle the train and test dataset and re-run the code to get cross-validation results. 
 
-## Dependencies(Install):
-* python-recsys [https://github.com/python-recsys/python-recsys]
 
-6. NOTE: Toggle the train and test dataset and re-run the code to get cross-validation results. 
 
-7. Please cite if you use this code.
-	* Mogadala, A., and Rettinger, A. (2015). Multi-modal Correlated Centroid Space for Multi-lingual Cross-Modal Retrieval. In Advances in Information Retrieval (pp. 68-79). Springer International Publishing.
+## Citation
 
-## Developed at
-AIFB
-Karlsruhe Institute of Technology
-Karlsurhe
-Germany.
-
-For any queries or bug-reports Contact: aditya.mogadala [at] kit [dot] edu
+Mogadala, A., and Rettinger, A. (2015). Multi-modal Correlated Centroid Space for Multi-lingual Cross-Modal Retrieval. In Advances in Information Retrieval (pp. 68-79). Springer International Publishing.
