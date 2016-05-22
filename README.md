@@ -1,4 +1,4 @@
-Multi-Modal Correlated Centroid Space for Multi-lingual Cross-Modal Retrieval (CSquareSUR)
+Multimodal Correlated Centroid Space for Multilingual Cross-Modal Retrieval (CSquareSUR)
 
 ## Purpose 
 
